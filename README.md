@@ -7,3 +7,4 @@ trying to add some conflicts in the branch1
 
 
 This feature will be merged to master before branch1
+Demonstrating the conflicts using rebase
